@@ -1,0 +1,81 @@
+.
+|-- .DS_Store
+|-- .env
+|-- .gitignore
+|-- components.json
+|-- eslint.config.js
+|-- index.html
+|-- jsconfig.json
+|-- package.json
+|-- pnpm-lock.yaml
+|-- project_structure_directory_tree.txt
+|-- public
+|   `-- vite.svg
+|-- README.md
+|-- src
+|   |-- App.css
+|   |-- App.jsx
+|   |-- assets
+|   |   |-- .DS_Store
+|   |   |-- react.svg
+|   |   `-- Split-Second-Towing-Tampa.png
+|   |-- components
+|   |   |-- AdminUserManagement.jsx
+|   |   |-- BreadcrumbNav.jsx
+|   |   |-- ChangePassword.jsx
+|   |   |-- DatePickerTest.jsx
+|   |   |-- Header.jsx
+|   |   |-- InvoicePreview.jsx
+|   |   |-- InvoiceTable.jsx
+|   |   |-- LogDetailsDialog.jsx
+|   |   |-- ProtectedRoute.jsx
+|   |   `-- ui
+|   |       |-- address-autocomplete.jsx
+|   |       |-- breadcrumb.jsx
+|   |       |-- button.jsx
+|   |       |-- calendar.jsx
+|   |       |-- card.jsx
+|   |       |-- checkbox.jsx
+|   |       |-- date-picker.jsx
+|   |       |-- date-range-picker.jsx
+|   |       |-- dialog.jsx
+|   |       |-- dropdown-menu.jsx
+|   |       |-- form.jsx
+|   |       |-- input.jsx
+|   |       |-- label.jsx
+|   |       |-- popover.jsx
+|   |       |-- select.jsx
+|   |       |-- switch.jsx
+|   |       |-- table.jsx
+|   |       |-- textarea.jsx
+|   |       `-- tooltip.jsx
+|   |-- context
+|   |   |-- AuthContext.jsx
+|   |   `-- BreadcrumbContext.jsx
+|   |-- hooks
+|   |   `-- useAuth.js
+|   |-- index.css
+|   |-- lib
+|   |   |-- button-utils.js
+|   |   |-- form-utils.js
+|   |   `-- utils.js
+|   |-- main.jsx
+|   |-- pages
+|   |   |-- CreateInvoice.jsx
+|   |   |-- EditInvoice.jsx
+|   |   |-- Home.jsx
+|   |   |-- InvoiceList.jsx
+|   |   |-- Login.jsx
+|   |   |-- Logs.jsx
+|   |   `-- UserSettings.jsx
+|   `-- utils
+|       |-- eiaClient.js
+|       |-- invoiceNumberGenerator.js
+|       |-- invoicePdfGenerator.js
+|       |-- invoicePrinter.js
+|       |-- logUtils.js
+|       `-- supabaseClient.js
+|-- tailwind.config.js
+`-- vite.config.js
+
+11 directories, 68 files
